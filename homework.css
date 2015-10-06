@@ -29,3 +29,5 @@ p {
 .poblique {
     font-style: oblique;
 }
+p { background-color: white; }
+div p { background-color: DodgerBlue; }
