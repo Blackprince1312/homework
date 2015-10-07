@@ -1,6 +1,6 @@
 .bob{color:red;}
 #ted{font-size:60px;}
-#history{background:url("http://i.dailymail.co.uk/i/pix/2014/08/05/1407225932091_wps_6_SANTA_MONICA_CA_AUGUST_04.jpg");}
+#history{background:url("http://apclinic.co.uk/wp-content/uploads/2013/09/Light-Grey-Background.jpg");}
 p {
     border-style: solid;
     border-color:black;
@@ -31,3 +31,11 @@ p {
 }
 p { background-color: white; }
 div p { background-color: DodgerBlue; }
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+}
+img {
+    border: 1px ;
+    clear: left;
+}
