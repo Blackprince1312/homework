@@ -1,41 +1,64 @@
-.bob{color:red;}
-#ted{font-size:60px;}
-#history{background:url("http://apclinic.co.uk/wp-content/uploads/2013/09/Light-Grey-Background.jpg");}
+.bob {
+  color: black;
+}
+
+#ted {
+  font-size: 60px;
+}
+
+#history {
+  background: url("http://eltongroup.com/wp-content/uploads/2012/09/Grey-Oak-50.65.jpg");
+}
+
 p {
-    border-style: solid;
-    border-color:black;
+  border-style: solid;
+  border-color: black;
 }
-.h{font-weight:800;}
-.div{
-    background-color: green;
-    opacity: 0.5;
-    filter: Alpha(opacity=100);
+
+.h {
+  font-weight: 800;
 }
+
 #borderimg {
-    border: 15px solid transparent;
-    padding: 20px;
-    -webkit-border-image: url(border.png) 30 round; 
-    -o-border-image: url(border.png) 30 round;
-    border-image: url(border.png) 30 round;
+  border: 15px solid transparent;
+  padding: 20px;
+  -webkit-border-image: url(border.png) 30 round;
+  -o-border-image: url(border.png) 30 round;
+  border-image: url(border.png) 30 round;
 }
-.h1 {
-    text-shadow: 2px 2px #FF0000;
-}
+
 #q {
-    border: 3px solid red;
-    outline-style: dotted;
-    outline-color: #00ff00;
+  border: 5px solid red;
+  outline-style: solid;
+  outline-color: #00ff00;
 }
+
 .poblique {
-    font-style: oblique;
+  font-style: oblique;
 }
-p { background-color: white; }
-div p { background-color: DodgerBlue; }
-img {
-    float: left;
-    margin: 0 0 10px 10px;
+
+p {
+  background-color: red;
 }
+
+div p {
+  background-color:
+}
+
 img {
-    border: 1px ;
-    clear: left;
+  float: left;
+  margin: 0 0 10px 10px;
+}
+
+.img {
+  border: 1px;
+  clear: left;
+}
+
+#t {
+  background-color: blue;
+}
+
+#s {
+  background-color: orange;
 }
